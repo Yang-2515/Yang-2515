@@ -1,4 +1,5 @@
 ### Hi there 👋
+Im'm C# developer
 
 <!--
 **Yang-2515/Yang-2515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
